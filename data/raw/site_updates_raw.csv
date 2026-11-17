@@ -1,0 +1,61 @@
+site_id,milestone,owner,planned_date,percent_complete,status,dependency,issue,issue_owner,requested_decision
+SITE-101,Survey,Alex Johnson,2027-05-01,0,Not Started,None,Schedule delay,Priya Shah,Confirm recovery plan
+SITE-102,Permitting,Priya Shah,2027-05-02,25,In Progress,Survey,,,
+SITE-103,Equipment Delivery,Michael Brown,2027-05-03,50,In Progress,Permitting,,,
+site 104,Installation,Sarah Lee,2027-05-04,75,In Progress,Equipment Delivery,,,
+SITE-105,Acceptance,Daniel Kim,2027-05-05,100,Complete,Installation,,,
+SITE-106,Survey,Alex Johnson,2027-05-06,0,Not Started,None,,,
+SITE-107,Permitting,Priya Shah,2027-05-07,25,In Progress,Survey,Schedule delay,Michael Brown,Confirm recovery plan
+SITE-108,Equipment Delivery,Michael Brown,2027-05-08,50,In Progress,Permitting,,,
+SITE-109,Installation,Sarah Lee,2027-05-09,75,In Progress,Equipment Delivery,,,
+SITE105,Acceptance,Daniel Kim,2027-05-10,100,Complete,Installation,,,
+SITE-111,Survey,Alex Johnson,2027-05-11,0,Not Started,None,,,
+SITE-112,Permitting,Priya Shah,2027-05-12,25,In Progress,Survey,,,
+SITE-113,Equipment Delivery,Michael Brown,2027-05-13,50,In Progress,Permitting,Schedule delay,Sarah Lee,Confirm recovery plan
+SITE-114,Installation,Sarah Lee,2027-05-14,75,In Progress,Equipment Delivery,,,
+SITE-115,Acceptance,,2027-05-15,100,Complete,Installation,,,
+SITE-116,Survey,Alex Johnson,2027-05-16,0,Not Started,None,,,
+SITE-117,Permitting,Priya Shah,2027-05-17,25,In Progress,Survey,,,
+SITE-118,Equipment Delivery,Michael Brown,2027-05-18,50,In Progress,Permitting,,,
+SITE-119,Installation,Sarah Lee,2027-05-19,75,In Progress,Equipment Delivery,Schedule delay,Daniel Kim,Confirm recovery plan
+SITE-120,Acceptance,Daniel Kim,2027-05-20,100,Complete,Installation,,,
+SITE-101,Survey,Alex Johnson,2027-05-21,0,Not Started,None,,,
+SITE-102,Permitting,Priya Shah,,25,In Progress,Survey,,,
+SITE-103,Equipment Delivery,Michael Brown,2027-05-23,50,In Progress,Permitting,,,
+SITE-104,Installation,Sarah Lee,2027-05-24,75,In Progress,Equipment Delivery,,,
+SITE-105,Acceptance,Daniel Kim,2027-05-25,100,Complete,Installation,Schedule delay,Alex Johnson,Confirm recovery plan
+SITE-106,Survey,Alex Johnson,2027-05-26,0,Not Started,None,,,
+SITE-107,Permitting,Priya Shah,2027-05-27,25,In Progress,Survey,,,
+SITE-108,Equipment Delivery,Michael Brown,2027-05-28,50,In Progress,Permitting,,,
+SITE-109,Installation,Sarah Lee,2027-05-29,75,In Progress,Equipment Delivery,,,
+SITE-110,Acceptance,Daniel Kim,2027-05-30,100,Complete,Installation,,,
+SITE-111,Survey,Alex Johnson,2027-05-31,0,Not Started,None,Schedule delay,Priya Shah,Confirm recovery plan
+SITE-112,Permitting,,2027-06-01,25,In Progress,Survey,,,
+SITE-113,Equipment Delivery,Michael Brown,2027-06-02,50,In Progress,Permitting,,,
+SITE-114,Installation,Sarah Lee,2027-06-03,75,In Progress,Equipment Delivery,,,
+SITE-115,Acceptance,Daniel Kim,2027-06-04,100,Complete,Installation,,,
+SITE-116,Survey,Alex Johnson,2027-05-01,0,Not Started,None,,,
+SITE-117,Permitting,Priya Shah,2027-05-02,25,In Progress,Survey,Schedule delay,Michael Brown,Confirm recovery plan
+SITE-118,Equipment Delivery,Michael Brown,2027-05-03,50,In Progress,Permitting,,,
+SITE-119,Installation,Sarah Lee,2027-05-04,75,In Progress,Equipment Delivery,,,
+SITE-120,Acceptance,Daniel Kim,2027-05-05,100,Complete,Installation,,,
+SITE-101,Survey,Alex Johnson,2027-05-06,0,Not Started,None,,,
+SITE-102,Permitting,Priya Shah,2027-05-07,25,In Progress,Survey,,,
+SITE-103,Equipment Delivery,Michael Brown,2027-05-08,50,In Progress,Permitting,Schedule delay,Sarah Lee,Confirm recovery plan
+SITE-104,Installation,Sarah Lee,2027-05-09,75,In Progress,Equipment Delivery,,,
+SITE-105,Acceptance,Daniel Kim,,100,Complete,Installation,,,
+SITE-106,Survey,Alex Johnson,2027-05-11,0,Not Started,None,,,
+SITE-107,Permitting,Priya Shah,2027-05-12,25,In Progress,Survey,,,
+SITE-108,Equipment Delivery,Michael Brown,2027-05-13,50,In Progress,Permitting,,,
+SITE-109,Installation,Sarah Lee,2027-05-14,75,In Progress,Equipment Delivery,Schedule delay,Daniel Kim,Confirm recovery plan
+SITE-110,Acceptance,Daniel Kim,2027-05-15,100,Complete,Installation,,,
+SITE-111,Survey,Alex Johnson,2027-05-16,0,Not Started,None,,,
+SITE-112,Permitting,Priya Shah,2027-05-17,25,In Progress,Survey,,,
+SITE-113,Equipment Delivery,Michael Brown,2027-05-18,50,In Progress,Permitting,,,
+SITE-114,Installation,Sarah Lee,2027-05-19,75,In Progress,Equipment Delivery,,,
+SITE-115,Acceptance,Daniel Kim,2027-05-20,100,Complete,Installation,Schedule delay,Alex Johnson,Confirm recovery plan
+SITE-116,Survey,Alex Johnson,2027-05-21,0,Not Started,None,,,
+SITE-117,Permitting,Priya Shah,2027-05-22,25,In Progress,Survey,,,
+SITE-118,Equipment Delivery,Michael Brown,2027-05-23,50,In Progress,Permitting,,,
+SITE-119,Installation,Sarah Lee,2027-05-24,75,In Progress,Equipment Delivery,,,
+SITE-120,Acceptance,Daniel Kim,2027-05-25,100,Complete,Installation,,,

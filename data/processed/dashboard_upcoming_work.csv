@@ -1,0 +1,9 @@
+site_id_normalized,milestone,owner,planned_date,dependency,status
+SITE-106,Survey,Alex Johnson,2027-05-26,None,Not Started
+SITE-107,Permitting,Priya Shah,2027-05-27,Survey,In Progress
+SITE-108,Equipment Delivery,Michael Brown,2027-05-28,Permitting,In Progress
+SITE-109,Installation,Sarah Lee,2027-05-29,Equipment Delivery,In Progress
+SITE-111,Survey,Alex Johnson,2027-05-31,None,Not Started
+SITE-112,Permitting,,2027-06-01,Survey,In Progress
+SITE-113,Equipment Delivery,Michael Brown,2027-06-02,Permitting,In Progress
+SITE-114,Installation,Sarah Lee,2027-06-03,Equipment Delivery,In Progress

@@ -1,0 +1,47 @@
+site_id_normalized,milestone,owner,planned_date,issue,issue_owner,overdue,missing_owner,missing_planned_date,requested_decision
+SITE-101,Survey,Alex Johnson,2027-05-01,Schedule delay,Priya Shah,True,False,False,Confirm recovery plan
+SITE-102,Permitting,Priya Shah,2027-05-02,,,True,False,False,
+SITE-103,Equipment Delivery,Michael Brown,2027-05-03,,,True,False,False,
+SITE-104,Installation,Sarah Lee,2027-05-04,,,True,False,False,
+SITE-106,Survey,Alex Johnson,2027-05-06,,,True,False,False,
+SITE-107,Permitting,Priya Shah,2027-05-07,Schedule delay,Michael Brown,True,False,False,Confirm recovery plan
+SITE-108,Equipment Delivery,Michael Brown,2027-05-08,,,True,False,False,
+SITE-109,Installation,Sarah Lee,2027-05-09,,,True,False,False,
+SITE-111,Survey,Alex Johnson,2027-05-11,,,True,False,False,
+SITE-112,Permitting,Priya Shah,2027-05-12,,,True,False,False,
+SITE-113,Equipment Delivery,Michael Brown,2027-05-13,Schedule delay,Sarah Lee,True,False,False,Confirm recovery plan
+SITE-114,Installation,Sarah Lee,2027-05-14,,,True,False,False,
+SITE-115,Acceptance,,2027-05-15,,,False,True,False,
+SITE-116,Survey,Alex Johnson,2027-05-16,,,True,False,False,
+SITE-117,Permitting,Priya Shah,2027-05-17,,,True,False,False,
+SITE-118,Equipment Delivery,Michael Brown,2027-05-18,,,True,False,False,
+SITE-119,Installation,Sarah Lee,2027-05-19,Schedule delay,Daniel Kim,True,False,False,Confirm recovery plan
+SITE-101,Survey,Alex Johnson,2027-05-21,,,True,False,False,
+SITE-102,Permitting,Priya Shah,,,,False,False,True,
+SITE-103,Equipment Delivery,Michael Brown,2027-05-23,,,True,False,False,
+SITE-104,Installation,Sarah Lee,2027-05-24,,,True,False,False,
+SITE-105,Acceptance,Daniel Kim,2027-05-25,Schedule delay,Alex Johnson,False,False,False,Confirm recovery plan
+SITE-111,Survey,Alex Johnson,2027-05-31,Schedule delay,Priya Shah,False,False,False,Confirm recovery plan
+SITE-112,Permitting,,2027-06-01,,,False,True,False,
+SITE-116,Survey,Alex Johnson,2027-05-01,,,True,False,False,
+SITE-117,Permitting,Priya Shah,2027-05-02,Schedule delay,Michael Brown,True,False,False,Confirm recovery plan
+SITE-118,Equipment Delivery,Michael Brown,2027-05-03,,,True,False,False,
+SITE-119,Installation,Sarah Lee,2027-05-04,,,True,False,False,
+SITE-101,Survey,Alex Johnson,2027-05-06,,,True,False,False,
+SITE-102,Permitting,Priya Shah,2027-05-07,,,True,False,False,
+SITE-103,Equipment Delivery,Michael Brown,2027-05-08,Schedule delay,Sarah Lee,True,False,False,Confirm recovery plan
+SITE-104,Installation,Sarah Lee,2027-05-09,,,True,False,False,
+SITE-105,Acceptance,Daniel Kim,,,,False,False,True,
+SITE-106,Survey,Alex Johnson,2027-05-11,,,True,False,False,
+SITE-107,Permitting,Priya Shah,2027-05-12,,,True,False,False,
+SITE-108,Equipment Delivery,Michael Brown,2027-05-13,,,True,False,False,
+SITE-109,Installation,Sarah Lee,2027-05-14,Schedule delay,Daniel Kim,True,False,False,Confirm recovery plan
+SITE-111,Survey,Alex Johnson,2027-05-16,,,True,False,False,
+SITE-112,Permitting,Priya Shah,2027-05-17,,,True,False,False,
+SITE-113,Equipment Delivery,Michael Brown,2027-05-18,,,True,False,False,
+SITE-114,Installation,Sarah Lee,2027-05-19,,,True,False,False,
+SITE-115,Acceptance,Daniel Kim,2027-05-20,Schedule delay,Alex Johnson,False,False,False,Confirm recovery plan
+SITE-116,Survey,Alex Johnson,2027-05-21,,,True,False,False,
+SITE-117,Permitting,Priya Shah,2027-05-22,,,True,False,False,
+SITE-118,Equipment Delivery,Michael Brown,2027-05-23,,,True,False,False,
+SITE-119,Installation,Sarah Lee,2027-05-24,,,True,False,False,

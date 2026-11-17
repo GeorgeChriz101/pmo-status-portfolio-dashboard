@@ -1,0 +1,5 @@
+site_id,site_id_normalized,milestone,owner,planned_date,missing_owner,missing_planned_date
+SITE-115,SITE-115,Acceptance,,2027-05-15,True,False
+SITE-102,SITE-102,Permitting,Priya Shah,,False,True
+SITE-112,SITE-112,Permitting,,2027-06-01,True,False
+SITE-105,SITE-105,Acceptance,Daniel Kim,,False,True
